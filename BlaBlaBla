@@ -3,4 +3,9 @@ asf
 
 asdf
 
+<<<<<<< HEAD
 #include <iostream>
+=======
+#include <iostream>
+jsadf
+>>>>>>> head
